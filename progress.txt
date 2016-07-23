@@ -1,0 +1,15 @@
+What needs to be done for this repo
+
+up next: 
+* get it working on wordpress
+* find/create a better background (Jess?)
+* customize header and footer elements 
+* get pictures from last year
+* Another site for HackED
+
+future (when we know more): 
+* IEEE/SPIE? Workshops? combining TT and M? - relies on structural decisions
+* fade effect on TT speaker pics with name,topic,time,place.
+
+Potential ideas: 
+
