@@ -11,7 +11,7 @@
 				</header>
 				<a class="jumplink pic">
 					<!-- <span class="arrow icon fa-chevron-right"><span>See my work</span></span> -->
-					<img src="images/me.jpg" alt="" />
+					<img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/me.jpg" alt="" />
 				</a>
 			</article>
 
@@ -31,40 +31,40 @@
 				<section>
 					<div class="row">
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic01.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic01.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic02.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic02.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic03.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic03.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic04.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic04.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic05.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic05.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic06.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic06.jpg" alt=""></a>
 						</div>
 						<!-- <div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic07.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic07.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic08.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic08.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic09.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic09.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic10.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic10.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic11.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic11.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic12.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic12.jpg" alt=""></a>
 						</div> -->
 					</div>
 				</section>
@@ -82,40 +82,40 @@
 				<section>
 					<div class="row">
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic01.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic01.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic02.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic02.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic03.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic03.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic04.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic04.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic05.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic05.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic06.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic06.jpg" alt=""></a>
 						</div>
 						<!-- <div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic07.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic07.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic08.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic08.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic09.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic09.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic10.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic10.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic11.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic11.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="images/pic12.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic12.jpg" alt=""></a>
 						</div> -->
 					</div>
 				</section>
@@ -136,40 +136,40 @@
 			<section>
 				<div class="row">
 					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic01.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic01.jpg" alt=""></a>
 					</div>
 					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic02.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic02.jpg" alt=""></a>
 					</div>
 					<div class="4u$ 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic03.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic03.jpg" alt=""></a>
 					</div>
 					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic04.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic04.jpg" alt=""></a>
 					</div>
 					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic05.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic05.jpg" alt=""></a>
 					</div>
 					<div class="4u$ 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic06.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic06.jpg" alt=""></a>
 					</div>
 					<!-- <div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic07.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic07.jpg" alt=""></a>
 					</div>
 					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic08.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic08.jpg" alt=""></a>
 					</div>
 					<div class="4u$ 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic09.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic09.jpg" alt=""></a>
 					</div>
 					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic10.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic10.jpg" alt=""></a>
 					</div>
 					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic11.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic11.jpg" alt=""></a>
 					</div>
 					<div class="4u$ 12u$(mobile)">
-						<a href="#" class="image fit"><img src="images/pic12.jpg" alt=""></a>
+						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic12.jpg" alt=""></a>
 					</div> -->
 				</div>
 			</section>
