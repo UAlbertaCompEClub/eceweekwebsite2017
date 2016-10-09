@@ -26,6 +26,10 @@
 		line-height: 1;
 	}
 
+	img {
+		image-orientation: from-image;
+	}
+
 	ol, ul {
 		list-style: none;
 	}
