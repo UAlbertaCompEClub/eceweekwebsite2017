@@ -748,7 +748,7 @@
 
 	body {
 		background-color: rgb(17,33,136);
-		background-image: radial-gradient(circle, #FFF 0%, #4753a3 0%, rgba(255, 255, 255, 0) 98%, rgba(255, 255, 255, 0) 845%);
+		background-image: radial-gradient(circle, #FFF 0%, #4753a3 0%, rgba(255, 255, 255, 0) 98%, rgba(255, 255, 255, 0) 1061%);
 		/*background-image: url("images/overlay.png"), url("images/bg.jpg");*/
 		/*background-repeat: repeat, no-repeat;*/
 		/*background-size: auto, 100% 100%;*/
