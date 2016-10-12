@@ -2,7 +2,7 @@
 				<!-- Footer -->
 					<div id="footer">
 						<ul class="copyright">
-							<li>&copy; ECE Week</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>&copy; ECE Week</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li>Customized by: ECE Week team</li>
 						</ul>
 					</div>
 

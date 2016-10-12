@@ -2,178 +2,146 @@
 
 <!-- Main -->
 	<div id="main">
-
 		<!-- Me -->
 			<article id="home" class="panel no-bg">
 				<header>
 					<h1>ECE Week 2017</h1>
 					<p>Celebrating ECE Technology and Education</p>
 				</header>
-				<a class="jumplink pic">
-					<!-- <span class="arrow icon fa-chevron-right"><span>See my work</span></span> -->
-					<img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/me.jpg" alt="" />
-				</a>
+				<!-- <div class="pic">
+					<img src="images/frontaction.jpg" alt="" />
+				</div> -->
+				<div class="pic">
+					<img src="https://raw.githubusercontent.com/UAlbertaCompEClub/eceweekwebsite2017/master/images/frontaction.jpg" alt="" />
+				</div>
 			</article>
 
-		<!-- talks -->
-			<article id="talks" class="panel">
+		<!-- workshops -->
+			<article id="workshops" class="panel">
 				<header>
-					<h2>Tech Talks</h2>
+					<h2>Workshops</h2>
 					When&Where
+  					(tuesday and wednesday) - tbd
 				</header>
 				<p>
-					Tech Talks are short, engaging presentations about interesting technology. A successful Talk will inspire the audience to pursue further knowledge about this technology. Our Tech Talks are limited to 10 minutes, Inkovate2015 has a series of flash talks of varying length on Youtube that demonstrate this idea.
+					Workshops emphasize a hands-on approach to learning. Build something cool or learn how to use a new piece of technology in an informative and engaging one hour session! Whether you’re a novice or experienced tinkerer, our workshops will expand your knowledge about what work in the ECE industry looks like.
 				</p>
-				<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PLRp9jPf602CCu8xiaUwp-fZqAnMVAjIZ-&amp;hl=en_US" allowfullscreen="true" style="border:0;"></iframe></span>
-				<p>
-					<h3>Our Talks</h3>
-				</p>
+
 				<section>
-					<div class="row">
+					<h3>Our Workshops</h3>
+					<p style="margin:0px">To be determined - contact for more</p>
+					<div class="row" style="margin-top: 0px">
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic01.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop01.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic02.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop02.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic03.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop03.jpg" alt=""></a>
 						</div>
-						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic04.jpg" alt=""></a>
-						</div>
-						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic05.jpg" alt=""></a>
-						</div>
-						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic06.jpg" alt=""></a>
-						</div>
-						<!-- <div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic07.jpg" alt=""></a>
-						</div>
-						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic08.jpg" alt=""></a>
-						</div>
-						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic09.jpg" alt=""></a>
-						</div>
-						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic10.jpg" alt=""></a>
-						</div>
-						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic11.jpg" alt=""></a>
-						</div>
-						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic12.jpg" alt=""></a>
-						</div> -->
 					</div>
 				</section>
 			</article>
 
+		<!-- democamp/keynote 
+			<article id="democamp" class="panel">
+				<header>
+					<h2>Democamp</h2>
+					When&Where
+			        (Thursday, January 26th at tbd) - tbd
+				</header>
+				<p>
+					DemoCamp brings together developers, creatives, entrepreneurs and investors to share what they’ve been working on and to find others in the community interested in similar topics. For presenters, it’s a great way to get feedback on what you’re building from peers and the community, all in an informal setting. Started back in 2008, DemoCamp Edmonton has steadily grown into one of the largest in the country, with over 200 people attending each event.
+					(Hosted by Startup Edmonton)
+				</p>
+
+				<section>
+					<h3>Demos</h3>
+					<p style="margin:0px">To be determined - contact for more</p>
+					<div class="row" style="margin-top: 0px">
+						<div class="4u 12u$(mobile)">
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Demo01.jpg" alt=""></a>
+						</div>
+						<div class="4u 12u$(mobile)">
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Demo02.jpg" alt=""></a>
+						</div>
+						<div class="4u$ 12u$(mobile)">
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Demo03.jpg" alt=""></a>
+						</div>
+					</div>
+				</section>
+			</article>-->
+
 		<!-- Mixer -->
 			<article id="mixer" class="panel">
 				<header>
-					<h2>Mixer</h2>
+					<h2>Tech Talks and Mixer</h2>
 					When&Where
+						(Friday at DICE 8th Floor)
 				</header>
 				<p>
-					Our mixer takes place on the Friday night of ECE Week. There will be food, beverages and a little friendly competition. As you enter the mixer you will be split into teams and will have the chance to compete for prizes throughout the night with plenty of mixing in between.
+					Friday is all about tech talks, with a mixer to end the day! Tech talks are 10 minute presentations about interesting technology, and its role and applications in industry. Come out and learn about the innovative technologies used by companies. After the talks, the mixer gives students, professors and industry representatives to socialize, network and make personal connections in a friendly setting. Food and beverages will be provided!
 				</p>
+				<!-- <span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PLRp9jPf602CCu8xiaUwp-fZqAnMVAjIZ-&amp;hl=en_US" allowfullscreen="true" style="border:0;"></iframe></span> -->
 				<section>
-					<div class="row">
+					<h3>Tech Talks</h3>
+					<p style="margin:0px">To be determined - contact for more</p>
+					<div class="row" style="margin-top: 0px">
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic01.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/TechTalk01.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic02.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/TechTalk02.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic03.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/TechTalk03.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic04.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/TechTalk04.jpg" alt=""></a>
 						</div>
 						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic05.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/TechTalk05.jpg" alt=""></a>
 						</div>
 						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic06.jpg" alt=""></a>
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/TechTalk06.jpg" alt=""></a>
 						</div>
-						<!-- <div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic07.jpg" alt=""></a>
-						</div>
-						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic08.jpg" alt=""></a>
-						</div>
-						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic09.jpg" alt=""></a>
-						</div>
-						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic10.jpg" alt=""></a>
-						</div>
-						<div class="4u 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic11.jpg" alt=""></a>
-						</div>
-						<div class="4u$ 12u$(mobile)">
-							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic12.jpg" alt=""></a>
-						</div> -->
 					</div>
 				</section>
 			</article>
 
 		<!-- Hack -->
-		<article id="hack" class="panel">
-			<header>
-				<h2>HackED 2017</h2>
-				When&Where
-			</header>
-			<p>
-				A hackathon is a competition with intense collaboration, great ideas and an amazing atmosphere. The hackathon gives you the chance to improve your skills and build your dreams. HackED is a hackathon to build solutions to your everyday problems. You can build anything you want as long as it’s original and you start from scratch! HackED is a hackathon for you, make the most of it!
-			</p>
-			<p>
-				Learn more about Hacked 2017 on the website.
-			</p>
-			<section>
-				<div class="row">
-					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic01.jpg" alt=""></a>
+			<article id="hack" class="panel">
+				<header>
+					<h2>HackEd 2017</h2>
+					Saturday and Sunday, January 28-29th. At <a color="inherit" href="https://www.google.ca/maps/place/Startup+Edmonton">StartUP Edmonton.</a>
+				</header>
+				<p>
+					HackEd is our student hackathon, an event where students have 24 hours to design, implement and present innovative solutions to life’s problems. Using software, hardware and collaboration, students get a chance to exercise their creativity and problem solving skills to build something awesome! Students of all disciplines and skill levels are welcome to join. Learn more about HackEd 2017 on the  <a color="inherit" href="https://hacked.compeclub.com">HackEd website</a>. Previous hacks can be found on the <a color="inherit" href="http://hacked2016.devpost.com/">HackEd2016 Devpost</a> page.
+				</p>
+				<section>
+					<div class="row">
+						<div class="4u 12u$(mobile)">
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/images/HackED.jpg" alt=""></a>
+						</div>
+						<div class="4u 12u$(mobile)">
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/images/HackED2.JPG" alt=""></a>
+						</div>
+						<div class="4u$ 12u$(mobile)">
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/images/HackED3.jpg" alt=""></a>
+						</div>
+						<div class="4u 12u$(mobile)">
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/images/HackED4.jpg" alt=""></a>
+						</div>
+						<div class="4u 12u$(mobile)">
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/images/HackED7.JPG" alt=""></a>
+						</div>
+						<div class="4u$ 12u$(mobile)">
+							<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/images/HackED9.JPG" alt=""></a>
+						</div>
 					</div>
-					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic02.jpg" alt=""></a>
-					</div>
-					<div class="4u$ 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic03.jpg" alt=""></a>
-					</div>
-					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic04.jpg" alt=""></a>
-					</div>
-					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic05.jpg" alt=""></a>
-					</div>
-					<div class="4u$ 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic06.jpg" alt=""></a>
-					</div>
-					<!-- <div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic07.jpg" alt=""></a>
-					</div>
-					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic08.jpg" alt=""></a>
-					</div>
-					<div class="4u$ 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic09.jpg" alt=""></a>
-					</div>
-					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic10.jpg" alt=""></a>
-					</div>
-					<div class="4u 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic11.jpg" alt=""></a>
-					</div>
-					<div class="4u$ 12u$(mobile)">
-						<a href="#" class="image fit"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/pic12.jpg" alt=""></a>
-					</div> -->
-				</div>
-			</section>
-		</article>
+				</section>
+			</article>
 
 		<!-- Contact -->
 			<article id="contact" class="panel">
