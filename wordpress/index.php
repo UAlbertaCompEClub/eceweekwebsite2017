@@ -26,6 +26,9 @@
 				<p>
 					Workshops emphasize a hands-on approach to learning. Build something cool or learn how to use a new piece of technology in an informative and engaging one hour session! Whether you’re a novice or experienced tinkerer, our workshops will expand your knowledge about what work in the ECE industry looks like.
 				</p>
+        <p>
+        If you are interested in hosting a workshop, contact eceweek@compeclub.com for details.
+        </p>
 
 				<section>
 					<h3>Our Workshops</h3>
@@ -76,12 +79,12 @@
 		<!-- Mixer -->
 			<article id="mixer" class="panel">
 				<header>
-					<h2>Tech Talks and Mixer</h2>
-					When&Where
-						(Friday at DICE 8th Floor)
+					<h2>Industry Social</h2>
+				  When&Where
+              		(Friday at DICE 8th Floor)
 				</header>
 				<p>
-					Friday is all about tech talks, with a mixer to end the day! Tech talks are 10 minute presentations about interesting technology, and its role and applications in industry. Come out and learn about the innovative technologies used by companies. After the talks, the mixer gives students, professors and industry representatives to socialize, network and make personal connections in a friendly setting. Food and beverages will be provided!
+				  The Industry Social is an evening event comprised of tech talks and a mixer. Tech talks are 10 minute presentations about interesting technology, and its role and applications in industry. Come out and learn about the innovative technologies used by companies. After the talks, the mixer gives students, professors and industry representatives a chance to socialize, network and forge personal connections in a friendly setting. Food and beverages will be provided!
 				</p>
 				<!-- <span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PLRp9jPf602CCu8xiaUwp-fZqAnMVAjIZ-&amp;hl=en_US" allowfullscreen="true" style="border:0;"></iframe></span> -->
 				<section>
