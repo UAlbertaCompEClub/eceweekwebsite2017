@@ -1,39 +1,77 @@
 <?php
-	//response generation function
-	$response = "";
+	// //response generation function
+	// $response = "";
 
-	//function to generate response
-	function my_contact_form_generate_response($type, $message){
-		global $response;
+	// //function to generate response
+	// function my_contact_form_generate_response($type, $message){
+	// 	global $response;
 
-		if($type == "success") $response = "<div class='success'>{$message}</div>";
-		else $response = "<div class='error'>{$message}</div>";
-	}
+	// 	if($type == "success") $response = "<div class='success'>{$message}</div>";
+	// 	else $response = "<div class='error'>{$message}</div>";
+	// }
 
-	//response messages
-	$missing_content = "Please supply all information.";
-	$email_invalid   = "Email Address Invalid.";
-	$message_unsent  = "Message was not sent. Try Again.";
-	$message_sent    = "Thanks! Your message has been sent.";
-	 
-	//user posted variables
-	$name = $_POST['message_name'];
-	$email = $_POST['message_email'];
-	$subjectin = $_POST['subject_text'];
-	$message = $_POST['message_text'];
-	 
-	//php mailer variables
-	$to = get_option('admin_email');
-	$subject = "Someone sent a message from ".get_bloginfo('name') . $subjectin;
-	$headers = 'From: '. $email . "\r\n" .
-	  'Reply-To: ' . $email . "\r\n";
+	// // var
+	// 	//response messages
+	// 	$missing_content = "Please supply all information.";
+	// 	$email_invalid   = "Email Address Invalid.";
+	// 	$message_unsent  = "Message was not sent. Try Again.";
+	// 	$message_sent    = "Thanks! Your message has been sent.";
+		 
+	// 	//user posted variables
+	// 	$name = $_POST['message_name'];
+	// 	$email = $_POST['message_email'];
+	// 	$subject = $_POST['subject_text'] . " from eceweekwebsite2017";
+	// 	$message = $_POST['message_text'];
+		 
+	// 	//php mailer variables
+	// 	$to = "askalburgi@gmail.com";
+	// 	$headers = 'From: '. $email . "\r\n" .
+	// 	  'Reply-To: ' . $email . "\r\n";
+
+	// // email logic
+	// if (!$name == 0 || !$email == 0 || !$message == 0) {
+	// 	//validate email
+	// 	if (!filter_var($email, FILTER_VALIDATE_EMAIL))
+	// 		my_contact_form_generate_response("error", $email_invalid);
+	// 	else { //email is valid
+	// 		//validate presence of name and message
+	// 		if (empty($name) || empty($message)) {
+	// 			my_contact_form_generate_response("error", $missing_content);
+	// 		} else { //ready to go!
+	// 			//send email
+	// 			$sent = wp_mail($to, $subject, strip_tags($message), $headers);
+	// 			if ($sent) my_contact_form_generate_response("success", $message_sent); //message sent!
+	// 			else my_contact_form_generate_response("error", $message_unsent); //message wasn't sent
+	// 		}
+	// 	}
+	// } else if ($_POST['submitted']) my_contact_form_generate_response("error", $missing_content);
 ?>
 
 <?php get_header(); ?>
 
+<style type="text/css">
+	.error{
+		padding: 5px 9px;
+		border: 1px solid red;
+		color: red;
+		border-radius: 3px;
+	}
+
+	.success{
+		padding: 5px 9px;
+		border: 1px solid green;
+		color: green;
+		border-radius: 3px;
+	}
+
+	form span{
+		color: red;
+	}
+</style>
+
 <!-- Main -->
 	<div id="main">
-		<!-- Me -->
+		<!-- Home -->
 			<article id="home" class="panel no-bg">
 				<header>
 					<h1>ECE Week 2017</h1>
@@ -57,9 +95,9 @@
 				<p>
 					Workshops emphasize a hands-on approach to learning. Build something cool or learn how to use a new piece of technology in an informative and engaging one hour session! Whether you’re a novice or experienced tinkerer, our workshops will expand your knowledge about what work in the ECE industry looks like.
 				</p>
-		        <p>
-		    	    If you are interested in hosting a workshop, contact eceweek@compeclub.com for details.
-		        </p>
+				<p>
+				If you are interested in hosting a workshop, contact <a href="mailto:eceweek@compeclub.com">us</a>!
+				</p>
 
 				<section>
 					<h3>Our Workshops</h3>
@@ -111,11 +149,11 @@
 			<article id="mixer" class="panel">
 				<header>
 					<h2>Industry Social</h2>
-				  When&Where
-              		(Friday at DICE 8th Floor)
+					When&Where
+						(Friday at DICE 8th Floor)
 				</header>
 				<p>
-				  The Industry Social is an evening event comprised of tech talks and a mixer. Tech talks are 10 minute presentations about interesting technology, and its role and applications in industry. Come out and learn about the innovative technologies used by companies. After the talks, the mixer gives students, professors and industry representatives a chance to socialize, network and forge personal connections in a friendly setting. Food and beverages will be provided!
+					The Industry Social is an evening event comprised of tech talks and a mixer. Tech talks are 10 minute presentations about interesting technology, and its role and applications in industry. Come out and learn about the innovative technologies used by companies. After the talks, the mixer gives students, professors and industry representatives a chance to socialize, network and forge personal connections in a friendly setting. Food and beverages will be provided!
 				</p>
 				<!-- <span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PLRp9jPf602CCu8xiaUwp-fZqAnMVAjIZ-&amp;hl=en_US" allowfullscreen="true" style="border:0;"></iframe></span> -->
 				<section>
@@ -178,41 +216,36 @@
 			</article>
 
 		<!-- Contact -->
-			<article id="contact" class="panel">
-				<header>
-					<h2>Contact</h2>
-				</header>
-				<p>
-					For involvement, participation and sponsorship queries, please email us here!
-				</p>
-				<div id="respond">
-					<?php echo $response; ?>
-					<form action="<?php the_permalink(); ?>" method="post">
-						<div>
-							<div class="row">
-								<div class="6u 12u$(mobile)">
-									<input type="text" name="message_name" placeholder="Name" value="<?php echo esc_attr($_POST['message_name']); ?>"/>
-								</div>
-								<div class="6u$ 12u$(mobile)">
-									<input type="text" name="message_email" placeholder="Email Address" value="<?php echo esc_attr($_POST['message_email']); ?>" />
-								</div>
-								<div class="12u$">
-									<input type="text" name="subject_text" placeholder="Subject" value="<?php echo esc_textarea($_POST['subject_text']); ?>" />
-								</div>
-								<div class="12u$">
-									<textarea name="message_text" placeholder="Message" rows="8">
-										<?php echo esc_textarea($_POST['message_text']); ?>
-									</textarea>
-								</div>
-								<input type="hidden" name="submitted" value="1">
-								<div class="12u$">
-									<input type="submit" value="Send Message" />
-								</div>
-							</div>
-						</div>
-					</form>
-				</div>
-			</article>
+							<article id="contact" class="panel">
+								<header>
+									<h2>Contact</h2>
+								</header>
+								<p>
+									For involvement, participation and sponsorship queries, please email us here!
+								</p>
+								<?php echo do_shortcode( '[contact-form-7 id="555" title="ECE Week main contact form"]' ); ?>
+								<!-- <form action="#" method="post">
+									<div>
+										<div class="row">
+											<div class="6u 12u$(mobile)">
+												<input type="text" name="name" placeholder="Name" />
+											</div>
+											<div class="6u$ 12u$(mobile)">
+												<input type="text" name="email" placeholder="Email" />
+											</div>
+											<div class="12u$">
+												<input type="text" name="subject" placeholder="Subject" />
+											</div>
+											<div class="12u$">
+												<textarea name="message" placeholder="Message" rows="8"></textarea>
+											</div>
+											<div class="12u$">
+												<input type="submit" value="Send Message" />
+											</div>
+										</div>
+									</div>
+								</form> -->
+							</article>
 	</div>
 
 <?php get_footer(); ?>
