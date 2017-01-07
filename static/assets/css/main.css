@@ -328,7 +328,7 @@
 	@media screen and (min-width: 737px) {
 
 		.row > * {
-			padding: 25px 0 0 25px;
+			padding: 5px 0 0 25px;
 		}
 
 		.row {
@@ -1188,8 +1188,13 @@
 				letter-spacing: -0.015em;
 			}
 
-			h3, h4, h5, h6 {
+			h3 {
 				font-size: 1.25em;
+				letter-spacing: -0.015em;
+			}
+
+			h4, h5, h6 {
+				font-size: 1em;
 				letter-spacing: -0.015em;
 			}
 
@@ -1628,14 +1633,19 @@
 		font-weight: bold;
 	}
 
-	#workshops .row a {
-		text-decoration: none;
-	}
-
 	.workshop div.text div {
 		font-size: medium;
 		line-height: normal;
 		font-weight: normal;
+	}
+
+	#workshops .row a {
+		text-decoration: none;
+	}
+
+	#workshops section h4 {
+		text-align: center;
+		font-weight: 200;
 	}
 
 	.CE1 {
