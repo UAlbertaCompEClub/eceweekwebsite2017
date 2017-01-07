@@ -1613,3 +1613,58 @@
 					}
 
 	}
+
+/* Workshops */ 
+	.workshop {
+		text-align: center;
+	}
+
+	.workshop div.text {
+		display: flex;
+		justify-content: center;
+		height: 100%;
+		flex-direction: column;
+		color: black;
+		font-weight: bold;
+	}
+
+	#workshops .row a {
+		text-decoration: none;
+	}
+
+	.workshop div.text div {
+		font-size: medium;
+		line-height: normal;
+		font-weight: normal;
+	}
+
+	.CE1 {
+		background-image:url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop01.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+	.CE2 {
+		background-image: url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop01.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+	.EE1 {
+		background-image:url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop02.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+	.EE2 {
+		background-image: url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop02.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+	.EP1 {
+		background-image:url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop03.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+	.EP2 {
+		background-image: url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop03.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
