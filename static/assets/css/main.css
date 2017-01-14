@@ -1631,12 +1631,16 @@
 		flex-direction: column;
 		color: black;
 		font-weight: bold;
+		line-height: normal;
 	}
 
 	.workshop div.text div {
 		font-size: medium;
-		line-height: normal;
 		font-weight: normal;
+	}
+
+	.workshop div.text div:first-child {
+		padding-top: 5px;
 	}
 
 	#workshops .row a {
