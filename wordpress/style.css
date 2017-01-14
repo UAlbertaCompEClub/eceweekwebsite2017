@@ -2,7 +2,7 @@
 	Theme Name: ECE Week Theme 2017
 	Theme URI: 
 	Description: borrowing heavily from HTML5's Astral Theme
-	Version: 1.5
+	Version: 1.8.2
 	Author: Arjun Kalburgi
 	Author URI: www.arjunkalburgi.com
 */
@@ -1623,3 +1623,68 @@
 						}
 
 		}
+
+
+/* Workshops */ 
+	.workshop {
+		text-align: center;
+	}
+
+	.workshop div.text {
+		display: flex;
+		justify-content: center;
+		height: 100%;
+		flex-direction: column;
+		color: black;
+		font-weight: bold;
+		line-height: normal;
+	}
+
+	.workshop div.text div {
+		font-size: medium;
+		font-weight: normal;
+	}
+
+	.workshop div.text div:first-child {
+		padding-top: 5px;
+	}
+
+	#workshops .row a {
+		text-decoration: none;
+	}
+
+	#workshops section h4 {
+		text-align: center;
+		font-weight: 200;
+	}
+
+	.CE1 {
+		background-image:url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop01.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+	.CE2 {
+		background-image: url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop01.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+	.EE1 {
+		background-image:url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop02.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+	.EE2 {
+		background-image: url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop02.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+	.EP1 {
+		background-image:url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop03.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+	.EP2 {
+		background-image: url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/Workshop03.jpg); 
+		background-repeat: no-repeat;
+		height: 200px;
+	}
