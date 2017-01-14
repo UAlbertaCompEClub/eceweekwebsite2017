@@ -25,7 +25,9 @@
 					<nav id="nav">
 						<a href="#home" class="icon fa-calendar-o active"><span>Home</span></a>
 						<a href="#workshops" class="icon fa-code-fork"><span>Workshops</span></a>
-						<!-- <a href="#democamp" class="icon fa-bar-chart"><span>DemoCamp</span></a> -->
+						<a href="#lunchalytics" class="icon fa-line-chart"><span>Lunchalytics</span></a>
+						<a href="#speaker" class="icon fa-comment"><span>Speaker</span></a>
+						<a href="#democamp" class="icon fa-cogs"><span>Speaker</span></a>
 						<a href="#mixer" class="icon fa-users"><span>Mixer</span></a>
 						<a href="#hack" class="icon fa-code"><span>Hackathon</span></a>
 						<a href="#contact" class="icon fa-envelope"><span>Contact</span></a>
