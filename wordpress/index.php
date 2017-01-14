@@ -216,36 +216,36 @@
 			</article>
 
 		<!-- Contact -->
-							<article id="contact" class="panel">
-								<header>
-									<h2>Contact</h2>
-								</header>
-								<p>
-									For involvement, participation and sponsorship queries, please email us here!
-								</p>
-								<?php echo do_shortcode( '[contact-form-7 id="555" title="ECE Week main contact form"]' ); ?>
-								<!-- <form action="#" method="post">
-									<div>
-										<div class="row">
-											<div class="6u 12u$(mobile)">
-												<input type="text" name="name" placeholder="Name" />
-											</div>
-											<div class="6u$ 12u$(mobile)">
-												<input type="text" name="email" placeholder="Email" />
-											</div>
-											<div class="12u$">
-												<input type="text" name="subject" placeholder="Subject" />
-											</div>
-											<div class="12u$">
-												<textarea name="message" placeholder="Message" rows="8"></textarea>
-											</div>
-											<div class="12u$">
-												<input type="submit" value="Send Message" />
-											</div>
-										</div>
-									</div>
-								</form> -->
-							</article>
+			<article id="contact" class="panel">
+				<header>
+					<h2>Contact</h2>
+				</header>
+				<p>
+					For involvement, participation and sponsorship queries, please email us here!
+				</p>
+				<?php echo do_shortcode( '[contact-form-7 id="555" title="ECE Week main contact form"]' ); ?>
+				<!-- <form action="#" method="post">
+					<div>
+						<div class="row">
+							<div class="6u 12u$(mobile)">
+								<input type="text" name="name" placeholder="Name" />
+							</div>
+							<div class="6u$ 12u$(mobile)">
+								<input type="text" name="email" placeholder="Email" />
+							</div>
+							<div class="12u$">
+								<input type="text" name="subject" placeholder="Subject" />
+							</div>
+							<div class="12u$">
+								<textarea name="message" placeholder="Message" rows="8"></textarea>
+							</div>
+							<div class="12u$">
+								<input type="submit" value="Send Message" />
+							</div>
+						</div>
+					</div>
+				</form> -->
+			</article>
 	</div>
 
 <?php get_footer(); ?>

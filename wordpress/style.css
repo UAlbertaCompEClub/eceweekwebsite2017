@@ -2,7 +2,7 @@
 	Theme Name: ECE Week Theme 2017
 	Theme URI: 
 	Description: borrowing heavily from HTML5's Astral Theme now with email
-	Version: 1.6.5
+	Version: 1.7.1
 	Author: Arjun Kalburgi
 	Author URI: www.arjunkalburgi.com
 */
@@ -1367,7 +1367,7 @@
 				top: 0;
 				left: 0;
 				width: 45em;
-				background-image: url(../../images/tabbackground.png);
+				background-image: url(https://cdn.rawgit.com/UAlbertaCompEClub/eceweekwebsite2017/master/static/images/tabbackground.png);
 				background-size: cover;
 				background-repeat: no-repeat;
 			}
