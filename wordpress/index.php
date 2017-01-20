@@ -89,13 +89,13 @@
 			<article id="workshops" class="panel">
 				<header>
 					<h2>Workshops</h2>
-					5:00 PM on Tuesday & Wednesday, January 24-25 @ <a href="https://maps.google.com/maps?f=q&hl=en&q=ETLC">ETLC, University of Alberta</a>
+					5:00 PM on Tuesday & Wednesday, January 24-25 @ <a color="inherit" href="https://maps.google.com/maps?f=q&hl=en&q=ETLC">ETLC, University of Alberta</a>
 				</header>
 				<p>
 					Workshops emphasize a hands-on approach to learning. Build something cool or learn how to use a new piece of technology in an informative and engaging one hour session! Whether you’re a novice or experienced tinkerer, our workshops will expand your knowledge about what work in the ECE industry looks like.
 				</p>
 				<p>
-				If you are interested in hosting a workshop, contact <a href="mailto:eceweek@compeclub.com">us</a>!
+					RSVP for workshops <a href="">here</a>
 				</p>
 
 				<section>
@@ -114,14 +114,18 @@
 						<div class="4u 12u$(mobile)">
 							<div class="EE1 workshop">
 								<div class="text">
-									TBA
+									Presentation
+									<div>General Electric</div>
+									<div>5pm Tuesday, COLT</div>
 								</div>
 							</div>
 						</div>
 						<div class="4u$ 12u$(mobile)">
 							<div class="EP1 workshop">
 								<div class="text">
-									TBA
+									DIY PCB Etching: Making Circuits out of Coca Cola
+									<div>Carson Dick - SPIE Student Club</div>
+									<div>5pm Tuesday, NREF 2-003</div>
 								</div>
 							</div>
 						</div>
@@ -131,23 +135,27 @@
 						<div class="4u 12u$(mobile)">
 							<div class="CE2 workshop">
 								<div class="text">
-									TBA
+									Make a Data Visualization
 									<div>Dark Horse Analytics</div>
-									<div>5pm Wednesday, location TBA</div>
+									<div>5pm Wednesday, ATCO</div>
 								</div>
 							</div>
 						</div>
 						<div class="4u 12u$(mobile)">
 							<div class="EE2 workshop">
 								<div class="text">
-									TBA
+									DIY Electronic Components: One Person's junk is Another Person's Beer-Bottle Capacitor
+									<div>Carson Dick - SPIE Student Club</div>
+									<div>5pm Wednesday, COLT</div>
 								</div>
 							</div>
 						</div>
 						<div class="4u$ 12u$(mobile)">
 							<div class="EP2 workshop">
 								<div class="text">
-									TBA
+									Nanofab Lab Tour
+									<div></div>
+									<div>5pm Wednesday</div>
 								</div>
 							</div>
 						</div>
